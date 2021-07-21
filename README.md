@@ -62,10 +62,9 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-## <a href="https://telegram.me/tendkotta">
-   <p> ```TENDKOTTA``` </p>
-  </a>
-## <a href="https://youtube.com/c/LNtechnical">
+## [[TENDKOTTA ❤️](https://telegram.me/tendkotta)]
+
+ <a href="https://youtube.com/c/LNtechnical">
    <p> ```YouTube``` </p>
   </a>
 
