@@ -1,4 +1,4 @@
-## ``Google_Translater``
+### ``Google Translater bot``
 
 <p align="center">
   <a href="https://www.python.org">
@@ -62,8 +62,7 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/tendkotta">
-   <p> ```Telegram``` </p>
+## ```[TENDKOTTA ❤️](https://t.me/tendkotta)```
   </a>
 <a href="https://youtube.com/c/LNtechnical">
    <p> ```YouTube``` </p>
