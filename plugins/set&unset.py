@@ -27,4 +27,4 @@ async def setlg(client,message):
     	    		set(user_id,lgcd)
     	    		await message.reply_text(f"Successfully set custom default language **{cd}**")
     	    else:
-    	    		await message.reply_text(" Please use this command with an argument. \n **For Example:/set English**",reply_markup=InlineKeyboardMarkup([[	InlineKeyboardButton("How To Use",url = "https://youtu.be/dUYvenXiYKE")]]))
+    	    		await message.reply_text(" Please use this command with an argument. \n **For Example:/set English**",reply_markup=InlineKeyboardMarkup([[	InlineKeyboardButton("Share Your Friends",url = "http://t.me/share/url?url=Join%20%28%40tharamaanateambot%29%20to%20download%20all%20tamil%20movies%2C%20series%2C%20songs%20and%20youtube%20videos%2E")]]))
