@@ -1,15 +1,6 @@
 ### ``Google Translater``
 
 <p align="center">
-  <a href="https://www.python.org">
-    <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
-  </a>
-</p>
-</p>
-
-</p>
-<p align="center">
   <a href="https://github.com/lntechnical2/Google_Translater_V2/stargazers">
     <img src="https://img.shields.io/github/stars/lntechnical2/Google_Translater_V2?style=social">
 
@@ -62,7 +53,7 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-## [TENDKOTTA ❤️(https://telegram.me/tendkotta)]
+## [[TENDKOTTA ❤️](https://telegram.me/tendkotta)]
 
 ## Credits
 
