@@ -1,4 +1,4 @@
-# Google_Translater_V2
+# Google_Translater
 
 <p align="center">
   <a href="https://www.python.org">
@@ -62,7 +62,7 @@ and larger works may be distributed under different terms and without source cod
 ````
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/tendkotta">
    <p> Telegram </p>
   </a>
 <a href="https://youtube.com/c/LNtechnical">
