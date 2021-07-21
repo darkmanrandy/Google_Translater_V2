@@ -14,13 +14,13 @@ async def start(client, message):
           text =f"Hello **{message.from_user.first_name }** \n\n __I am simple Google Translater Bot \n I can translate any language to you selected language__",
           reply_to_message_id = message.message_id,
           reply_markup=InlineKeyboardMarkup(
-            [ [ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/lntechnical") ],[InlineKeyboardButton("Subscribe 🧐", url="https://youtube.com/c/LNtechnical") ]   ]  ) )
+            [ [ InlineKeyboardButton("Support 🇮🇳" ,url="https://t.me/tharamaanateambot") ],[InlineKeyboardButton("Subscribe 🧐", url="https://t.me/tendkotta") ]   ]  ) )
             
 @Client.on_message(filters.private & filters.text  )
 async def echo(client, message):
 	keybord1= InlineKeyboardMarkup( [
         [ 
-            InlineKeyboardButton("Afrikaans", callback_data='af'),
+            InlineKeyboardButton("Tamil", callback_data='ta'),
              InlineKeyboardButton("Albanian", callback_data='sq'),
             InlineKeyboardButton("Amharic",callback_data ='am'),
         ],
@@ -60,7 +60,7 @@ async def echo(client, message):
 async def translate_text(bot,update):
       keybord1= InlineKeyboardMarkup( [
         [ 
-            InlineKeyboardButton("Afrikaans", callback_data='af'),
+            InlineKeyboardButton("Tamil", callback_data='ta'),
              InlineKeyboardButton("Albanian", callback_data='sq'),
             InlineKeyboardButton("Amharic",callback_data ='am'),
         ],
@@ -206,7 +206,7 @@ async def translate_text(bot,update):
          InlineKeyboardButton("Tagalog (Filipino)",callback_data ='tl'),
          InlineKeyboardButton("Tajik",callback_data = "tg")
          ],
-         [InlineKeyboardButton("Tamil",callback_data = "ta"),
+         [InlineKeyboardButton("Afrikaans",callback_data = "af"),
          InlineKeyboardButton("Tatar",callback_data = "tt"),
          InlineKeyboardButton("Telugu",callback_data = "te")
          ],
